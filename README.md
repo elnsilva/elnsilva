@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @elnsilva
-- 👀 I’m interested in Technical Writing
-- 🌱 I’m currently learning tools for API documentation and front-end development
+- 👀 I’m a Technical Writer documenting APIs
+- 🌱 I’m currently learning the fundamentals of front and back-end development
